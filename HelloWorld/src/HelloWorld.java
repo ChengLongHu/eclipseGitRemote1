@@ -1,6 +1,7 @@
 public class HelloWorld {
 	public static void main(String[] args) {
-		System.out.println("ÄãºÃ£¡");
-		System.out.println("ÕâÀïÊÇeclipseµÚ¶ş´ÎÌá½»£¡");
+		System.out.println("ä½ å¥½ï¼");
+		//Hello World!
+		System.out.println("è¿™é‡Œæ˜¯eclipseç¬¬äºŒæ¬¡æäº¤ï¼");
 	}
 }
